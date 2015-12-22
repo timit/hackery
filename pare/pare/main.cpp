@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  PairDown
+//  pare
 //
 //  Created by tim on 12/21/15.
 //  Copyright © 2015 tim. All rights reserved.
